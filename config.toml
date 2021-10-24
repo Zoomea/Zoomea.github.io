@@ -64,11 +64,11 @@ enableEmoji = true
         title = ""
         weight = 2
       [[languages.en.menu.main]]
-        identifier = "categories"
+        identifier = "travel"
         pre = ""
         post = ""
-        name = "Categories"
-        url = "/categories/"
+        name = "Travel"
+        url = "/travel/"
         title = ""
         weight = 3
       [[languages.en.menu.main]]

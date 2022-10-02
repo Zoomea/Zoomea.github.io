@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Michelle Zhou:"
-  sub = "I'm a Web Developer"
+  sub = "I'm a Full Stack Developer"
 
 [params.main]
   latestPublishHeader = "My Latest Post"

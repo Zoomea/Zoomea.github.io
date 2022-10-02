@@ -3,4 +3,6 @@ title: POST
 description: 'Posts Section'
 ---
 
-You'll add here a general introduction of your posts.
+<!-- posts are in chronological order, the newest post will be on the top -->
+
+Latest post:

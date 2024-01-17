@@ -52,7 +52,7 @@ pygmentsCodeFences=true
   linkedin = "https://www.linkedin.com/in/michelle-zhou-31a18a203/"
 
 [params.contact]
-  email = "michellezhoutech@gmail.com"
+  email = "michelle.mizhou@gmail.com"
   text= "Email" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 

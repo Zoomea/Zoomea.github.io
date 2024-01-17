@@ -4,8 +4,8 @@ description: This is the description of our sample project
 date: "2024-01-02T19:47:09+02:00"
 jobDate: 2024
 work: [design]
-techs: [Procreate]
-designs: [Tinderbox]
+# techs: [Procreate]
+# designs: [Tinderbox]
 thumbnail: sample-project/christmas.png
 # projectUrl: https://www.sampleorganization.org
 # testimonial:
